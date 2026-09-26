@@ -1,0 +1,6 @@
+{
+  "name": "AURA Sky Residences - 3D Interactive Architectural Showcase",
+  "description": "Experience luxury waterfront living with interactive 360° exterior building inspection, immersive room-by-room virtual tours, and unit search filters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
